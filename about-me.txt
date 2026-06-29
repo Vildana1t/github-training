@@ -1,2 +1,3 @@
 Name: Vildana
 Role: QA Engineer
+Location: Bosnia and Herzegovina
